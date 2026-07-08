@@ -1,4 +1,4 @@
-# Playlist Maker from Song Names
+# YouTube Playlist Maker from Song Names
 
 A Python tool that scans a local folder of music files, searches for them on YouTube, and automatically generates a YouTube playlist URL containing those songs.
 
